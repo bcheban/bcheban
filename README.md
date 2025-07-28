@@ -117,7 +117,7 @@ Tech: React Native, Expo, TypeScript, Appwrite
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bcheban&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bcheban&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
