@@ -60,28 +60,37 @@
 
 ## 🚀 Featured Projects
 
-### [SaaS Landing Page](https://react-landing-page-ivory-one.vercel.app)
+---
+
+### [Portfolio Website](https://portfolio-kappa-smoky-54.vercel.app)  
+Minimal, responsive personal portfolio site with dark mode and animated sections.  
+Tech: React, TailwindCSS, TypeScript  
+[🔗 Live](https://portfolio-kappa-smoky-54.vercel.app) • [📁 Code](https://github.com/bcheban/portfolio)
+
+---
+
+### [SaaS Landing Page](https://react-landing-page-ivory-one.vercel.app)  
 Modern responsive template for SaaS products.  
 Tech: React, TailwindCSS, TypeScript, Zustand  
 [🔗 Demo](https://react-landing-page-ivory-one.vercel.app) • [📁 Code](https://github.com/bcheban/react-landing-page)
 
 ---
 
-### [NoteForge](https://next-noteforge.vercel.app)
+### [NoteForge](https://next-noteforge.vercel.app)  
 Full-stack note-taking app with auth, search & App Router.  
 Tech: Next.js, TypeScript, Drizzle ORM, NeonDB  
 [🔗 Demo](https://next-noteforge.vercel.app) • [📁 Code](https://github.com/bcheban/next-noteforge)
 
 ---
 
-### [Nuxt Recipe App](https://nuxt-recipe-app-zeta.vercel.app)
+### [Nuxt Recipe App](https://nuxt-recipe-app-zeta.vercel.app)  
 Elegant UI for browsing recipes with Nuxt 4 and Vue.  
 Tech: Nuxt, Vue, TailwindCSS, TypeScript  
 [🔗 Demo](https://nuxt-recipe-app-zeta.vercel.app) • [📁 Code](https://github.com/bcheban/nuxt-recipe-app)
 
 ---
 
-### [HabitTracker Mobile](https://t.me/+PcPU9gD4mwg0MmJi)
+### [HabitTracker Mobile](https://t.me/+PcPU9gD4mwg0MmJi)  
 Mobile app to track habits with reminders & streaks.  
 Tech: React Native, Expo, TypeScript, Appwrite  
 [🔗 APK](https://t.me/+PcPU9gD4mwg0MmJi) • [📁 Code](https://github.com/bcheban/rn-habit-tracker)
@@ -109,6 +118,12 @@ Tech: React Native, Expo, TypeScript, Appwrite
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bcheban&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bcheban&theme=radical" />
 </p>
 
 ---
