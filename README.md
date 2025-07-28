@@ -97,4 +97,20 @@ Tech: React Native, Expo, TypeScript, Appwrite
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bcheban&show_icons=true&theme=radical" alt="Bohdan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcheban&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bcheban&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 🛰️ _Always exploring new technologies and building creative projects._
