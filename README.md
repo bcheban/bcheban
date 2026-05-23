@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1B2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Bohdan+Cheban+%F0%9F%91%8B;Front-End+Developer+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Building+beautiful+web+%26+mobile+apps;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1B2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Bohdan+Cheban+%F0%9F%91%8B;Full-Stack+Developer+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Building+beautiful+web+%26+mobile+apps;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native" alt="Typing intro" />
 </h1>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-🎨 I'm a **passionate Front-End Developer** from Ukraine 🇺🇦 who loves crafting beautiful, creative, and interactive web experiences.
+🎨 I'm a **passionate Full Stack Developer** from Ukraine 🇺🇦 who loves crafting beautiful, creative, and interactive web experiences.
 
-- 💼 **Open to:** Junior / Mid Front-End opportunities (remote or Kyiv 🇺🇦)
+- 💼 **Open to:** Junior Full Stack opportunities (remote or Kyiv 🇺🇦)
 - 🎯 **Fun fact:** my portfolio has its own [live Lighthouse score endpoint](https://bohdancheban-portfolio.vercel.app/api/lighthouse?url=https://bohdancheban-portfolio.vercel.app) — see it in action below 👇
 
 ---
