@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1B2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Bohdan+Cheban+%F0%9F%91%8B;Full-Stack+Developer+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Building+beautiful+web+%26+mobile+apps;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D1B2&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Bohdan+Cheban+%F0%9F%91%8B;Full-Stack+Dev+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Building+modern+web+%26+mobile+apps;React+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Postgres" alt="Typing intro" />
 </h1>
 
 <p align="center">
@@ -40,7 +40,9 @@
 ### 🧠 Familiar with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,expo,appwrite" alt="Familiar frameworks" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt" alt="Frameworks Part 1" />
+  <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="50px" alt="Expo" style="margin: 0 4px;" />
+  <img src="https://skillicons.dev/icons?i=appwrite" alt="Frameworks Part 2" />
 </p>
 
 <p align="center">
